@@ -33,7 +33,7 @@ Below is a modified example of the kinds of real projects you’ll be working on
     * This won’t count against you, we understand the nature of software development and that sometimes problems are more complex than they first appear
 * Use any tool or language that helps you get the task done. If you’re using an external tool that doesn't produce code, please include screenshots or a short plaintext/markdown doc explaining the tool you used and the steps you took.
 * We have a preference for Python + Pandas for data manipulation, Airflow for reproducible data pipelines, but we’re open to other ways of working (With a strong preference for open-source tools)
-* If you have questions, please ask them by email - jjittamai@unicef.org . We’ll try and respond as quickly as possible, but can’t guarantee we’ll be able to respond immediately.
+* If you have questions, please ask them by email - [replace with your email] . We’ll try and respond as quickly as possible, but can’t guarantee we’ll be able to respond immediately.
     * Use your best judgement on how to proceed if you don’t hear from us in time.
 * The narrative description below tries to give you a sense of how we work as a team within UNICEF. It may have useful information that isn't in the quickstart. Please refer to it if you get stuck
 
